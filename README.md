@@ -5,10 +5,16 @@ Social lending provides opportunities for micro-loan investors to earn an intere
 
 ![](Slide1.PNG)
 
-## Methodology and Machine Learning Models Employed
-* Random Resampling technique: Random Under Sampling & Synthetic Minority OverSampling Technique
+## Methodology 
 * Primary Component Analysis (PCA)
-* Naive Bayes, Decision Tree, Random Forest, Neural Network, Gradient Boosting
+* Random Resampling 
+ * Random Under Sampling
+ * Synthetic Minority OverSampling Technique
+ * Machine Learning Algorithms
+  * Naive Bayes Decision Tree
+  * Random Forest 
+  * Neural Network
+  * Gradient Boosting
 
 ## Languages & Libraries
 * Python
