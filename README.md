@@ -11,10 +11,10 @@ Social lending provides opportunities for micro-loan investors to earn an intere
   * Random Under Sampling
   * Synthetic Minority OverSampling Technique
 * Machine Learning Algorithms 
-   * Naive Bayes Decision Tree
+   * Naive Bayes 
+   * Decision Tree
    * Random Forest 
    * Neural Network
-   * Gradient Boosting
 
 ### Languages & Libraries
 * Python
