@@ -1,11 +1,11 @@
 # Lending-Club-Analysis
 Machine-learning model for P2P loan default prediction
-## Executive Summary
+### Executive Summary
 Social lending provides opportunities for micro-loan investors to earn an interest rate higher than savings accounts or traditional finance intermediaries. However, default on social lending loans will result in investors losing their entire principal. Considering these risks on the social lending landscape, we will use machine learning algorithms to predict borrower’s default, in hopes to minimize peer-to-peer lending risks. The data used was retrieved from the publicly available LendingClub dataset uploaded through Kaggle. The data provides borrower’s loan listings from April 2008 to September 2018. 
 
 ![](Slide1.PNG)
 
-## Methodology 
+### Methodology 
 * Primary Component Analysis (PCA)
 * Random Resampling
   * Random Under Sampling
@@ -16,7 +16,7 @@ Social lending provides opportunities for micro-loan investors to earn an intere
    * Neural Network
    * Gradient Boosting
 
-## Languages & Libraries
+### Languages & Libraries
 * Python
   * numpy
   * pandas
@@ -25,7 +25,7 @@ Social lending provides opportunities for micro-loan investors to earn an intere
   * imblearn
   * statsmodels
 
-## References
+### References
 1. Hajek, P., & Michalak, K. (2013). Feature selection in corporate credit rating prediction. Knowledge-Based Systems, 51, 72-84. doi:10.1016/j.knosys.2013.07.008. Retrieved July 2, 2020. 
 2. Malekipirbazari, M., & Aksakalli, V. (2015). Risk assessment in social lending via random forests. Expert Systems with Applications, 42(10), 4621-4631. doi:10.1016/j.eswa.2015.02.001. Retrieved July 2, 2020. 
 3.	Serrano-Cinca, C., Gutiérrez-Nieto, B., & López-Palacios, L. (2015). Determinants of Default in P2P Lending. PLoS ONE, 10(10), 1–22. https://doi-org.proxy.seattleu.edu/10.1371/journal.pone.0139427
