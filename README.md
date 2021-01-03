@@ -41,7 +41,7 @@ https://arxiv.org/ftp/arxiv/papers/1805/1805.00801.pdf
 
 ### Technical Appendix & Paper
 
-[Technical Appendix](https://github.com/kilee722/Lending-Club-Analysis/blob/master/LendingClub_complete_code.ipynb)
-[Final Report](https://github.com/kilee722/Lending-Club-Analysis/blob/master/LendingClub_ML_paper.docx)
+* [Technical Appendix](https://github.com/kilee722/Lending-Club-Analysis/blob/master/LendingClub_complete_code.ipynb)
+* [Final Report](https://github.com/kilee722/Lending-Club-Analysis/blob/master/LendingClub_ML_paper.docx)
 
 For more information, please contact at klee1@seattleu.edu 
