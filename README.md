@@ -39,4 +39,9 @@ https://www.sciencedirect.com/science/article/pii/S093336571830681X
 https://arxiv.org/ftp/arxiv/papers/1805/1805.00801.pdf
 10.	Haixiang, G., Yijing, L., Shang, J., Mingyun, G., Yuanyue, H., and Bing, G.: ‘Learning from class- imbalanced data: review of methods and applications’, Expert Systems with Applications, 2017, 73, pp. 220- 239 
 
-Please contact personally for the original loan.csv dataset at klee1@seattleu.edu 
+### Technical Appendix & Paper
+
+[Technical Appendix](https://github.com/kilee722/Lending-Club-Analysis/blob/master/LendingClub_complete_code.ipynb)
+[Final Report](https://github.com/kilee722/Lending-Club-Analysis/blob/master/LendingClub_ML_paper.docx)
+
+For more information, please contact at klee1@seattleu.edu 
